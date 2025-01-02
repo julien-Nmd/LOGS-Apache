@@ -18,5 +18,5 @@ Je regarde l'ip de mon serveur apache :
 
 Je constate relève l'IP et je me connecte dessus depuis ma machine hôte :  
 
-<P><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2010-25-19.png" ALIGN=CENTER Width=600></P>
+<P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2010-25-19.png" Width=600></P>
 
