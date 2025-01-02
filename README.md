@@ -20,3 +20,12 @@ Je constate relève l'IP et je me connecte dessus depuis ma machine hôte :
 
 <P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2010-25-19.png" Width=600></P>
 
+Je me connecte aussi d'une autre VM afin d'avoir plusieurs IPs dans le fichier journal d'accès su serveur HTTP.  
+Je rajoute un sous dossier qui n'existe pas à mon IP de serveur afin d'y enregistrer des erreurs d'accès. Je le fait aussi de ma VM et de ma machine hôte.
+Sur mon serveur HTTP je vais vérifier les fichiers log du serveur, ils se situent dans /var/log/apache2/. Le fichier qui va nus intéresser ici est le fichier acces.log.   
+cle
+
+On va afficher son contenu en filtrant :  
+- Les requêtes réussies (code 200)
+- Les pages non trouvées (code 404)
+
