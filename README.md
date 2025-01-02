@@ -27,5 +27,6 @@ cle
 
 On va afficher son contenu en filtrant :  
 - Les requêtes réussies (code 200)
+ <P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2014-02-36.png" Width=600></P>
 - Les pages non trouvées (code 404)
-
+<P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2014-02-36.png" Width=600></P>
