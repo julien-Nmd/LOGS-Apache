@@ -26,11 +26,11 @@ Sur mon serveur HTTP je vais vérifier les fichiers log du serveur, ils se situe
 Si on regarde son contenu on peut y voir les ip qui se sont connectés le plus souvent :  
 
 <P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2011-04-09.png" Width=600></P>
-Dans notre cas 10.8.2.136 (ma machine hôte) et 10.8.2.137 (ma 2e VM windows server), on peut d'ailleurs aussi retrouver d'autres infos telles que l'OS ou le navigateur utilisé.
+Dans notre cas 10.8.2.136 (ma machine hôte) et 10.8.2.137 (ma 2e VM windows server), on peut d'ailleurs aussi retrouver d'autres infos telles que l'OS ou le navigateur utilisé.  
 
 On va afficher aussi son contenu en filtrant :  
+
 - Les requêtes réussies (code 200)
  <P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2014-02-36.png" Width=600></P>
 - Les pages non trouvées (code 404)
 <P ALIGN=CENTER><IMG SRC="https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2014-03-40.png" Width=600></P>
-https://github.com/julien-Nmd/LOGS-Apache/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-02%2011-04-09.png
